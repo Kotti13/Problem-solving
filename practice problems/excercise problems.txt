@@ -1,0 +1,30 @@
+1. Calculate Simple Interest for a Loan
+Problem: John has taken a loan of $10,000 from a bank at an interest rate of 5% per annum for 3 years. Calculate the simple interest he has to pay at the end of the loan term.
+Task: Use the formula Simple Interest = (P * R * T) / 100 where P = 10000, R = 5, and T = 3.
+2. Calculate the Area of a Garden
+Problem: Sarah wants to plant flowers in her circular garden, which has a radius of 14 meters. She needs to calculate the area of the garden to know how much space she has.
+Task: Use the formula Area = 3.14159 * r * r where r = 14.
+3. Swap the Price of Two Products
+Problem: A store mistakenly labeled two products. Product A is priced at $150, and Product B is priced at $200. Swap their prices without using a temporary variable.
+Task: Assign priceA = 150 and priceB = 200, then swap the values using arithmetic operations.
+4. Calculate the Average Marks of a Student
+Problem: A student scored 85, 90, and 95 in three subjects. Calculate the average marks to determine the student’s performance.
+Task: Use the formula Average = (num1 + num2 + num3) / 3 where num1 = 85, num2 = 90, and num3 = 95.
+5. Calculate Compound Interest for an Investment
+Problem: Emma invests $5,000 in a fixed deposit account that offers a 6% annual interest rate, compounded annually for 4 years. Calculate the compound interest at the end of the period.
+Task: Use the formula Compound Interest = P * (1 + R/100)^T - P where P = 5000, R = 6, and T = 4.
+6. Determine Profit from Selling a Laptop
+Problem: A retailer buys a laptop for $800 and sells it for $950. Calculate the profit made from the sale.
+Task: Use the formula Profit = SP - CP where CP = 800 and SP = 950.
+7. Calculate the Fencing Required for a Rectangular Field
+Problem: A farmer wants to fence his rectangular field that is 50 meters long and 30 meters wide. Calculate the total length of the fence required.
+Task: Use the formula Perimeter = 2 * (l + w) where l = 50 and w = 30.
+8. Bitwise AND for Security Permissions
+Problem: A computer system uses a bitmask to manage user permissions. Two permissions are represented by x = 25 (in binary: 11001) and y = 19 (in binary: 10011). Calculate the effective permissions using a bitwise AND operation.
+Task: Use the & operator to calculate the result where x = 25 and y = 19.
+9. Convert Celsius to Fahrenheit for Weather Reporting
+Problem: The weather report shows the temperature as 22°C. Convert this temperature to Fahrenheit to present it in a different format.
+Task: Use the formula Fahrenheit = (Celsius * 9/5) + 32 where Celsius = 22.
+10. Calculate the Volume of a Water Tank
+Problem: A cylindrical water tank has a radius of 5 meters and a height of 10 meters. Calculate the volume of the tank to determine how much water it can hold.
+Task: Use the formula Volume = 3.14159 * r * r * h where r = 5 and h = 10.
